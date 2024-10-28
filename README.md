@@ -16,6 +16,7 @@
 ## Stats
 ![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATHARVA-MUJUMDAR&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVA-MUJUMDAR&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size=1080x&card_width=1080">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHARVA-MUJUMDAR&theme=radical&hide_border=true&card_width=1080">
 
 
 ## Trophies
