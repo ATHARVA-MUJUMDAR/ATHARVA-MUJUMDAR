@@ -15,6 +15,11 @@
 
 ## Stats
 ![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATHARVA-MUJUMDAR&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARVA-MUJUMDAR&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size=1080x&card_width=1080">
+
+
+## Trophies
+![](https://github-profile-trophy.vercel.app/?username=ATHARVA-MUJUMDAR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## Holopin Board
 [![An image of @atharvamujumdar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharvamujumdar)](https://holopin.io/@atharvamujumdar)
