@@ -25,3 +25,22 @@
 
 ## Holopin Board
 [![An image of @atharvamujumdar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharvamujumdar)](https://holopin.io/@atharvamujumdar)
+
+
+<div align="center">
+  <h3>Connect with Me !</h3>
+  <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</div>
+
+
+
+<!-- Socials -->
+ <div align="center">
+	<a href="https://github.com/ATHARVA-MUJUMDAR" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/atharva-mukul-m-3497ab231/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
+	<a href="mailto:ana123msa@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
+</div>
+
+<!-- Footer -->
+ 
+ ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
