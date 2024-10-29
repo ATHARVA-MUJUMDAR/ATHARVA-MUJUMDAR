@@ -1,4 +1,5 @@
-# Hello I am Atharva Mujumdar
+<h1 align="center">Hi 👋, I'm Atharva Mujumdar</h1>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 
 ## About Me
