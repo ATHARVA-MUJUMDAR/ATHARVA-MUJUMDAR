@@ -28,6 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%23F7DF1E)
 ![EXPRESS](https://img.shields.io/badge/express-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Node](https://img.shields.io/badge/node-%23121011.svg?style=for-the-badge&logo=Nodejs&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%2300599C.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ATHARVA-MUJUMDAR&theme=dark&hide_border=true&include_all_commits=true&count_private=true&size=1080x&card_width=1080">
