@@ -24,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%23F7DF1E)
-![Node](https://img.shields.io/badge/node-%23121011.svg?style=for-the-badge&logo=Nodejs&logoColor=white)
+![Node](https://img.shields.io/badge/Node.Js-%23121011.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/express-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%2300599C.svg?style=for-the-badge&logo=vite&logoColor=white)
