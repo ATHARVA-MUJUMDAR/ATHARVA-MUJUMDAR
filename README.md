@@ -10,7 +10,7 @@
 
 - 💻 I am a 4th year CSE student at IIIT Agartala
 - 🧩 I enjoy problem solving and building projects
-- 🌱 I’m currently making projects in Full Stack Web Development
+- 🌱 I’m currently making projects in Full Stack Web Development 
 - 😄 Pronouns: He/Him
 
 ## My Tech Stack
