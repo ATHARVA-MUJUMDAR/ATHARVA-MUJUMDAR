@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 💻 I am a 4th year CSE student at IIIT Agartala
+- 💻 I am a C.S.E graduate from the prestigious Indian Institute of Information Technology, Agartala
 - 🧩 I enjoy problem solving and building projects
 - 🌱 I’m currently making projects in Full Stack Web Development 
 - 😄 Pronouns: He/Him
